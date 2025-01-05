@@ -11,7 +11,7 @@ from selenium.webdriver.chrome.options import Options
 
 app = Flask(__name__)
 
-API_KEY = '2ad521340e75e70795e40edd342d8db7'
+API_KEY = ''
 BASE_URL = "http://api.openweathermap.org/data/2.5/weather"
 BASE_URL_FORECAST = "https://api.openweathermap.org/data/2.5/forecast"
 CITY = "Dobovica"
