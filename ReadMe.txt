@@ -26,7 +26,7 @@ selenium           4.27.1
 Influx:
 bucket = "data"
 org = "family"
-token = "2B7SPpKmVGAnMCkWYTxRTU1_vtbruS2EBEYN_zqyKR0azK5S-lKyhTNdVf8IsmYleo566wIT3-fTTY_QhHQd9Q=="
+token = ""
 url="http://192.168.1.120:8086" 
 
 
