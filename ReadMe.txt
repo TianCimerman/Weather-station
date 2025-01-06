@@ -1,7 +1,7 @@
 Python Venv-Windows:
 cd path/to/your/project
 python -m venv venv
-source venv/bin/activate
+venv\Scripts\activate
 Run:
 cd path/to/your/project
 venv\Scripts\activate
