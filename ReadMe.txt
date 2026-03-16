@@ -42,7 +42,7 @@ INTERVAL = 60
 
 Selnioum:
     URL = "http://192.168.1.180/"  # Replace with the login page URL
-    PASSWORD = "helios"            # Replace with your password
+    PASSWORD = ""            # Replace with your password
     PASSWORD_FIELD_ID = "v00402"   # Replace with the ID/name/class of the password field
     LOGIN_BUTTON_ID = "but0" 
 
